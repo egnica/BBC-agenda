@@ -6,6 +6,8 @@ import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import Btn from "./elements/btn";
 import All from "./elements/allDays";
+import Tues from "./elements/tues";
+import Wed from "./elements/wed";
 
 console.log(BBC);
 export default function Home() {
@@ -43,7 +45,7 @@ export default function Home() {
         </Btn>
       </div>
       <div className={styles.agendaContainer}>
-        {dayClick == "all" ? <All /> : null}
+        {dayClick == "all" ? <All /> : dayClick == "tues" ? <Tues /> : <Wed />}
       </div>
     </div>
   );

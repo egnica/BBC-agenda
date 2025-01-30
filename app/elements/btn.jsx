@@ -7,11 +7,11 @@ const btn = ({ children, onClick, day }) => {
     hover: {
       scale: 1.1,
       cursor: "pointer",
-      backgroundColor: "rgb(109, 109, 252)",
+      backgroundColor: "rgb(86, 86, 115)",
     },
     click: {
       scale: 0.9,
-      backgroundColor: "rgb(60, 60, 253)",
+      backgroundColor: "rgb(236, 236, 255)",
     },
   };
   return (
@@ -22,8 +22,8 @@ const btn = ({ children, onClick, day }) => {
       whileHover="hover"
       whileTap="click"
       animate={{
-        backgroundColor:
-          day == true ? "rgb(61, 61, 250)" : "rgb(163, 163, 254)",
+        backgroundColor: day == true ? "rgb(236, 236, 255)" : "#102945",
+        color: day == true ? "black" : "white",
       }}
     >
       {children}

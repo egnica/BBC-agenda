@@ -17,14 +17,7 @@ const allDays = () => {
             <AgendaRow key={index} item={value} />
           ))}
       </div>
-      <h1>Wednesday</h1>
-      <div>
-        {Object.entries(BBC.event)
-          .filter(([key, value]) => value.day === "wed")
-          .map(([key, value], index) => (
-            <AgendaRow key={index} item={value} />
-          ))}
-      </div>
+      =
     </div>
   );
 };

@@ -9,7 +9,8 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
+          "fName": "",
+          "lName": "",
           "photo": "",
           "title": "",
           "bio": ""
@@ -27,8 +28,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "company": "",
           "title": "",
           "bio": ""
@@ -44,8 +46,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -60,7 +63,8 @@
       "assets": "",
       "speakers": [
         {
-          "name": "Margaret Ference",
+          "fName": "Margaret",
+          "lName": "Ference",
           "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/MargaretFerence-Square.png",
           "company": "Huntington National Bank",
           "title": "Senior Vice President and the Regional Bank Director of Credit Operations & SBA",
@@ -77,7 +81,8 @@
       "assets": "",
       "speakers": [
         {
-          "name": "Joel Mueller",
+          "fName": "Joel",
+          "lName": "Mueller",
           "photo": "https://www.barlowresearch.com/businessbankingconference_2024/images/presenters/JoelMueller.png",
           "company": "Barlow Research Associates, Inc.",
           "title": "Managing Partner and Research Director",
@@ -94,14 +99,16 @@
       "assets": "",
       "speakers": [
         {
-          "name": "Meline Gasparyan",
+          "fName": "Meline",
+          "lName": "Gasparyan",
           "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/MelineGasparyan-Square.png",
           "company": "Citizens",
           "title": "SVP, Treasury Solutions Market Manager, Business Banking",
           "bio": "Meline Gasparyan is a SVP, Treasury Solutions Market Manager for Citizens Bank’s Business Banking group. She has over 20 years of experience in the banking industry within various roles in Retail, Relationship Management, Treasury Sales, and Leadership in niche products such as Foreign Exchange and Commercial Card.<br><br>Meline leads a team of Treasury Sales Specialists throughout the Bank’s footprint. Her team’s focus lies in partnering with sales colleagues to engage business owners in comprehensive discussions about cash flow, time efficiency, cost savings, cash reporting and forecasting, planning for the future, and securing their accounts from fraud.<br><br>Meline’s own strengths are in problem-solving and being process driven, leading her team to successfully navigate the bank through acquisitions. She is also proud of her team’s role in rolling out Cash Flow Essentials, enhancing Citizens’ offerings to the Small Business segment.<br><br>Outside of work, Meline embraces being a mom to a spirited little one, enjoys barre classes, hiking with her husband, and baking. Originally from California, Meline loves visiting her parents, siblings, and nephews on the West Coast. Additionally, Meline sits on two boards of Not-for-Profit organizations; one which provides humanitarian relief to orphaned Armenians throughout the world, and the other which helps to educate the community about inclusion and independence for all people with disabilities."
         },
         {
-          "name": "Sandy Hanson",
+          "fName": "Sandy",
+          "lName": "Hanson",
           "photo": "https://www.barlowresearch.com/BusinessBankingConference_2023/images/presenters/SandyHanson.png",
           "company": "Barlow Research Associates, Inc.",
           "title": "Managing Partner, Treasurer and Small Business Program Director",
@@ -119,7 +126,9 @@
       "speakers": [
         {
           "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "company": "",
           "title": "",
           "bio": ""
@@ -135,21 +144,24 @@
       "assets": "",
       "speakers": [
         {
-          "name": "Steven (Steve) Robert",
+          "fName": "Steven",
+          "lName": "Robert",
           "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/SteveRobert-Square.png",
           "company": "Autobooks",
           "title": "Co-Founder and CEO",
           "bio": "Steve Robert is the co-founder and CEO of Autobooks, an integrated receivables platform for small businesses distributed through more than 1,000 financial institutions. Autobooks has enterprise agreements in place to embed its services within the leading digital/mobile banking service providers, such as Alkami, Bottomline, CSI, Jack Henry, FIS, NCR and Q2. As a Payment Service Provider (PSP) Autobooks bundles a merchant account with each SMBs’ checking account to easily send invoices, receive payments and automate reconciliation.<br><br> Prior to Autobooks, Steve was the technical co-founder and CTO at Billhighway, an integrated payment and accounting solution provider to large membership-based organizations, including unions and organized labor groups. Billhighway grew to support millions of users, processing billions in transactions before being acquired by TA Associates/BluePay in 2016. <br><br> Steve is an accredited investor and actively speaks and writes about business, technology, and entrepreneurship, and as a native Detroiter - is an advocate for promoting Detroit’s revitalization efforts. In 2012, he was invited to the White House to be part of the historic signing of the Jumpstart Our Business Startup Act (JOBS) by President Obama through his community involvement with Startup America. Steve was also recognized by Goldman Sachs as one of 100 Most Intriguing Entrepreneurs of 2021."
         },
         {
-          "name": "Prasanth Menon",
+          "fName": "Prasanth",
+          "lName": "Menon",
           "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/PrasanthMenon-Square.png",
           "company": "TD Bank",
           "title": "SVP, Head of Merchant Solutions Product & Operations",
           "bio": "Prasanth Menon – SVP, Head of Merchant Solutions Product & Operations, has been with TD Bank for 13 years in a variety of roles spanning Consumer Deposits Product Management, Wealth, Financial Stress Testing, and currently, Corporate Products and Services. He is responsible for Merchant & Payment Acceptance Solutions.<br/><br/> Prior to TD Bank, Prasanth's experiences include working at leading Financial Institutions in India and the US. His passion is driving product strategy and new product development that lead to impactful customer experiences – most recently, overseeing the launch of Tap to Pay on iPhone on the TD Bank Mobile App and enhancing Merchant product offerings.<br/><br/> Prior to re-entering the financial services industry, Prasanth’s experiences include client engagements at a leading strategy consulting firm focused around product and growth strategy, where he assisted clients in transforming their businesses. His work included including growth strategies, developing country strategies and Post Merger integrations."
         },
         {
-          "name": "Youa Yang",
+          "fName": "Youa",
+          "lName": "Yang",
           "photo": "https://www.barlowresearch.com/businessbankingconference_2024/images/presenters/YouaYang.png",
           "company": "Barlow Research Associates, Inc.",
           "title": "Managing Partner and COO",
@@ -166,21 +178,24 @@
       "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/Key-Criteria-Diverse-Business.pdf",
       "speakers": [
         {
-          "name": "Cathy Callahan",
+          "fName": "Cathy",
+          "lName": "Callahan",
           "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/CathyCallahan-Square.png",
           "company": "Bank of America",
           "title": "Northeast Regional Executive Business Banking SVP",
           "bio": "Cathy Callahan, Business Banking Northeast Region Executive and Senior Vice President, is based in NJ and leads banking teams serving mid-sized privately held companies in all sectors from Maine to Delaware. She and her team provide a client experience that is local, digital and advisory in 15 markets and 9 states throughout the Northeast. They deliver a variety of integrated financial solutions, including treasury, credit, risk management, and wealth management, to help companies grow, prosper and invest for the future. <br><br> Cathy joined predecessor bank, FleetBank, in 2003 and has served in a variety of leadership roles. Most recently, she was New Jersey market executive for Global Commercial Banking. Previously, she has served as senior relationship manager, sales performance manager and risk partner in Global Commercial Banking, with coverage in the New York Metro, New Jersey and Pennsylvania markets. Prior to joining the bank, she held roles at Chase Manhattan Bank, UBS, SwissBank Corp and First Minneapolis. In addition, Cathy has had several entrepreneurial ventures.<br><br>  Cathy holds a BSFS from Georgetown University and an International Business Degree from Stichting Nijenrode, The Netherlands School of Business. Actively involved in her community, Cathy is chair of the Board of Trustees of her alma mater, St. Dominic Academy in Jersey City; a trustee of TriCounty Scholarship Fund; a member of the NJ Economic Recovery Advisory Board and Choose NJ; a member of the Harding Historical Society; and a friend of Harding Land Trust. Previously, she was actively involved as a volunteer with PDA Soccer club; Kent Place School in Summit, NJ; served as president of the Executive Board of St. Peter’s Prep Parent’s Association in Jersey City, NJ; as a Finance Committee member of her church; and as a member of the Maplewood, NJ Planning Board and Zoning Board of Adjustment."
         },
         {
-          "name": "Shaunté Robinson",
+          "fName": "Shaunté",
+          "lName": "Robinson",
           "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/ShaunteRobinson-Square.png",
           "company": "JPMorgan Chase",
           "title": "Executive Director, Commercial Bank Midwest Segment Head for Diverse Businesses",
           "bio": "Shaunté Robinson is an Executive Director in JPMorgan Chase’s Commercial Banking Division, and the Commercial Bank’s Midwest Segment Head for Diverse Businesses with over 18 years of experience in the Financial Services industry. Prior to joining JPMorgan Chase, she held various positions at Wells Fargo, primarily in the Global Banking division working with multinational corporations across a variety of industries.<br><br>  Over the past few years, JPMorgan Chase has made public commitments to support women- and diverse-owned businesses through their Diverse Businesses Banking Team. With these commitments, the firm has provided tailored resources, thought-leadership content, and partnered with external organizations vital to the economic success of their clients. Shaunté helps drive many of JPMorgan Chase’s innovative programs created to open opportunities and provide equitable access, including their firm’s Supplier Diversity Program where they spend over $3 Billion annually with certified businesses.<br><br>  Shaunté received both her Bachelor of Science in Business and Masters of Business Administration in Finance from Florida A&M University. She resides in the Chicagoland area, is involved in many community business organizations, charities and serves on the board of the Center for Disability and Elderly Law (CDEL)."
         },
         {
-          "name": "Megan Seitchik",
+          "fName": "Megan",
+          "lName": "Seitchik",
           "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/MeganSeitchik.png",
           "company": "Barlow Research Associates, Inc.",
           "title": "Middle Market Program Director",
@@ -198,7 +213,9 @@
       "speakers": [
         {
           "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "company": "",
           "title": "",
           "bio": ""
@@ -215,7 +232,9 @@
       "speakers": [
         {
           "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "company": "",
           "title": "",
           "bio": ""
@@ -231,7 +250,8 @@
       "assets": "",
       "speakers": [
         {
-          "name": "Iliana Oris Valiente",
+          "fName": "Iliana",
+          "lName": "Valiente",
           "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/IlianaOrisValiente-square.png",
           "company": "Accenture Canada",
           "title": "Managing Director and Innovation Lead",
@@ -248,7 +268,8 @@
       "assets": "https://www.barlowresearch.com/BusinessBankingConference_2024/assets/LEADERSHIP.pdf",
       "speakers": [
         {
-          "name": "Devin Jordan",
+          "fName": "Devin",
+          "lName": "Jordan",
           "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/DevinJordan-Square.png",
           "company": "THE Ohio State University; Beyond The Game Non-Profit Organization",
           "title": "Assistant Football Coach; President & Founder",
@@ -265,8 +286,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -281,8 +303,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -297,8 +320,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -313,8 +337,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -329,8 +354,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -345,8 +371,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -361,8 +388,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -372,13 +400,14 @@
       "id": "120",
       "title": "Break",
       "day": "wed",
-      "time": "",
+      "time": "10:15am",
       "description": "10:15am",
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -393,8 +422,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -409,8 +439,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -425,8 +456,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -441,8 +473,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -457,8 +490,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }
@@ -473,8 +507,9 @@
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "photo": "",
+          "fName": "",
+          "lName": "",
+          "photo": null,
           "title": "",
           "bio": ""
         }

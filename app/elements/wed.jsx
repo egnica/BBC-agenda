@@ -9,14 +9,6 @@ const allDays = () => {
 
   return (
     <div>
-      <h1>Tuesday</h1>
-      <div>
-        {Object.entries(BBC.event)
-          .filter(([key, value]) => value.day === "tues")
-          .map(([key, value], index) => (
-            <AgendaRow key={index} item={value} />
-          ))}
-      </div>
       <h1>Wednesday</h1>
       <div>
         {Object.entries(BBC.event)
@@ -25,6 +17,7 @@ const allDays = () => {
             <AgendaRow key={index} item={value} />
           ))}
       </div>
+      =
     </div>
   );
 };
