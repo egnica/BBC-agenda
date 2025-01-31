@@ -18,12 +18,13 @@ const btn = ({ children, onClick, day }) => {
     <motion.div
       onClick={onClick}
       className={styles.btn}
+      initial={{ backgroundColor: "rgb(16, 41, 69)" }}
       variants={btnVariants}
       whileHover="hover"
       whileTap="click"
       animate={{
         backgroundColor: day == true ? "rgb(236, 236, 255)" : "#102945",
-        color: day == true ? "black" : "white",
+        color: day == true ? "rgb(0, 0, 0)" : "rgb(255, 255, 255)",
       }}
     >
       {children}

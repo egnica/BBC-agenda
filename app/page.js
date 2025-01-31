@@ -8,8 +8,8 @@ import Btn from "./elements/btn";
 import All from "./elements/allDays";
 import Tues from "./elements/tues";
 import Wed from "./elements/wed";
+import Link from "next/link";
 
-console.log(BBC);
 export default function Home() {
   const [dayClick, setDayClick] = useState("all");
   const [clicked, setClicked] = useState([false, false, false]);

@@ -17,3 +17,7 @@ body {
   padding: 0;
   margin: 0;
 }
+a {
+  text-decoration: none;
+  color: rgb(7, 5, 28);
+}

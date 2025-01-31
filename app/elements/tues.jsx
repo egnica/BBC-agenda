@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import AgendaRow from "./agendaRow";
 
 const allDays = () => {
-  console.log(BBC.event);
+
 
   return (
     <div>
