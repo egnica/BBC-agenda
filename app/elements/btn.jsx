@@ -7,11 +7,12 @@ const btn = ({ children, onClick, day }) => {
     hover: {
       scale: 1.1,
       cursor: "pointer",
-      backgroundColor: "rgb(86, 86, 115)",
+      boxShadow: "10px 10px px lightblue",
     },
     click: {
       scale: 0.9,
       backgroundColor: "rgb(236, 236, 255)",
+      boxShadow: "inset 0 2px 5px rgba(0, 0, 0, 0.2)",
     },
   };
   return (

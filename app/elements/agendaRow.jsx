@@ -2,8 +2,20 @@ import React from "react";
 import styles from "./page.module.css";
 import Image from "next/image";
 import Link from "next/link";
+import { motion } from "framer-motion";
 
 const agendaRow = ({ item }) => {
+  const speakerVariant = {
+    hover: {
+      scale: 1.1,
+      backgroundColor: "rgb(255, 255, 255)",
+      boxShadow: "10px 10px 5px lightblue",
+    },
+    click: {
+      scale: 0.9,
+      boxShadow: "inset 0 2px 5px rgba(0, 0, 0, 0.2)",
+    },
+  };
   return (
     <div className={styles.agendaRow}>
       <div className={styles.lineDivide}></div>
@@ -16,7 +28,11 @@ const agendaRow = ({ item }) => {
             return (
               speaker[1].fName != "" && (
                 <Link key={index} href={`${speaker[1].lName.toLowerCase()}/`}>
-                  <div>
+                  <motion.div
+                    variants={speakerVariant}
+                    whileHover="hover"
+                    whileTap="click"
+                  >
                     {speaker[1].photo != null ? (
                       <Image
                         className={styles.image}
@@ -34,7 +50,7 @@ const agendaRow = ({ item }) => {
                     <p style={{ textAlign: "center", fontSize: "smaller" }}>
                       <em>{speaker[1].company}</em>
                     </p>
-                  </div>
+                  </motion.div>
                 </Link>
               )
             );

@@ -3,7 +3,7 @@
 import styles from "./page.module.css";
 import BBC from "../bbcObject.json";
 import { useEffect, useState } from "react";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import Btn from "./elements/btn";
 import All from "./elements/allDays";
 import Tues from "./elements/tues";
@@ -24,13 +24,34 @@ export default function Home() {
       : null;
   }, [dayClick]);
 
+  const dayTransition = {
+    start: {
+      opacity: 0,
+      //maxHeight: 0,
+      y: 100,
+      transition: { duration: 0.5, ease: "easeInOut" },
+    },
+    rendered: {
+      opacity: 1,
+      //maxHeight: 6000,
+      y: 0,
+      transition: { duration: 0.5, ease: "easeInOut" },
+    },
+    end: {
+      opacity: 0,
+      //maxHeight: 0,
+      y: 100,
+      transition: { duration: 0.5, ease: "easeInOut" },
+    },
+  };
+
   return (
     <div className={styles.page}>
-    <div className={styles.titleContain}>
-      <h1>2025 Agenda</h1>
-      <p>Here's what's scheduled for the event.</p>
-    </div>
-      
+      <div className={styles.titleContain}>
+        <h1>2025 Agenda</h1>
+        <p>Here's what's scheduled for the event.</p>
+      </div>
+
       <div className={styles.threeButtonContainer}>
         <Btn day={clicked[0]} onClick={() => setDayClick("all")}>
           All Dates
@@ -48,7 +69,39 @@ export default function Home() {
         </Btn>
       </div>
       <div className={styles.agendaContainer}>
-        {dayClick == "all" ? <All /> : dayClick == "tues" ? <Tues /> : <Wed />}
+        <AnimatePresence mode="wait">
+          {dayClick == "all" ? (
+            <motion.div
+              key="all"
+              variants={dayTransition}
+              initial="start"
+              animate="rendered"
+              exit="end"
+            >
+              <All />
+            </motion.div>
+          ) : dayClick == "tues" ? (
+            <motion.div
+              key="tues"
+              variants={dayTransition}
+              initial="start"
+              animate="rendered"
+              exit="end"
+            >
+              <Tues />
+            </motion.div>
+          ) : (
+            <motion.div
+              key="wed"
+              variants={dayTransition}
+              initial="start"
+              animate="rendered"
+              exit="end"
+            >
+              <Wed />
+            </motion.div>
+          )}
+        </AnimatePresence>
       </div>
     </div>
   );

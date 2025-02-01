@@ -15,7 +15,6 @@ const allDays = () => {
             <AgendaRow key={index} item={value} />
           ))}
       </div>
-      =
     </div>
   );
 };
