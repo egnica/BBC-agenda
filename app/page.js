@@ -1,5 +1,5 @@
 "use client";
-import Image from "next/image";
+
 import styles from "./page.module.css";
 import BBC from "../bbcObject.json";
 import { useEffect, useState } from "react";
@@ -8,8 +8,8 @@ import Btn from "./elements/btn";
 import All from "./elements/allDays";
 import Tues from "./elements/tues";
 import Wed from "./elements/wed";
-import Link from "next/link";
 
+// ********* MAIN HOME PAGE
 export default function Home() {
   const [dayClick, setDayClick] = useState("all");
   const [clicked, setClicked] = useState([false, false, false]);
@@ -26,8 +26,11 @@ export default function Home() {
 
   return (
     <div className={styles.page}>
+    <div className={styles.titleContain}>
       <h1>2025 Agenda</h1>
       <p>Here's what's scheduled for the event.</p>
+    </div>
+      
       <div className={styles.threeButtonContainer}>
         <Btn day={clicked[0]} onClick={() => setDayClick("all")}>
           All Dates

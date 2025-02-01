@@ -1,4 +1,8 @@
 import BBC from "../../bbcObject.json";
+import styles from "./page.module.css";
+import Image from "next/image";
+
+////  ********* SPEAKER PROFILE PAGE
 
 export default async function Page({ params }) {
   const { slug } = await params; //  Await params before using
@@ -22,13 +26,29 @@ export default async function Page({ params }) {
   }
 
   return (
-    <div>
-      <p>Key: {key}</p>
-      <h1>
-        {speaker.fName} {speaker.lName}
-      </h1>
-      <p>{speaker.bio}</p>
-      <img src={speaker.photo} alt={`${speaker.fName} ${speaker.lName}`} />
+    <div className={styles.profileContain}>
+      <div className={styles.speakerGrid}>
+        <Image
+          className={styles.profilePic}
+          height={300}
+          width={300}
+          src={speaker.photo}
+          alt={`${speaker.fName} ${speaker.lName}`}
+        />
+
+        <div>
+          <h1>
+            {speaker.fName} {speaker.lName}
+          </h1>
+
+          <h4>{speaker.company}</h4>
+          <p>
+            <em>{speaker.title}</em>
+          </p>
+          <br />
+          <p dangerouslySetInnerHTML={{ __html: speaker.bio }}></p>
+        </div>
+      </div>
     </div>
   );
 }

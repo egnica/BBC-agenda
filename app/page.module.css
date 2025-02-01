@@ -1,10 +1,19 @@
 .page {
   padding: 20px;
 }
+.titleContain {
+  display: grid;
+  place-content: center;
+  text-align: center;
+  padding: 20px 0;
+}
 .threeButtonContainer {
   display: grid;
+  place-content: center;
   grid-template-columns: 1fr 1fr 1fr;
   background-color: rgb(247, 247, 247);
+  max-width: 1000px;
+  margin: 20px;
 }
 
 .agendaContainer {

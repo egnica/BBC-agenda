@@ -1,0 +1,11 @@
+.profileContain {
+  padding: 10%;
+}
+.speakerGrid {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+}
+
+.profilePic {
+  border-radius: 15px;
+}
