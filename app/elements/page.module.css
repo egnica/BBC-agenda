@@ -8,7 +8,7 @@
 }
 .agendaRow {
   display: grid;
-  grid-template-columns: 0.1fr 0.2fr 1fr;
+  grid-template-columns: 0.1fr 0.15fr 1fr;
   padding: 10px;
   margin: 15px 0;
 }

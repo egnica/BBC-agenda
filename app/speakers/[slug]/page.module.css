@@ -1,0 +1,30 @@
+.profileContain {
+  padding: 0 5% 5% 5%;
+}
+.speakerGrid {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+  gap: 20px;
+}
+
+.profilePic {
+  border-radius: 15px;
+  display: block;
+  margin: 0 auto;
+}
+.btn {
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background-color: #102945;
+  color: white;
+  max-width: 200px;
+  text-align: center;
+}
+
+.btn:hover {
+  scale: 1.1;
+}
+.content {
+  max-width: 600px;
+}

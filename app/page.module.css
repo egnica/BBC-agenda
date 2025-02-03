@@ -1,14 +1,17 @@
 .nav {
-  padding: 40px 0 0 0;
   display: flex;
-  justify-content: center;
+  padding-left: 30px;
   align-items: center;
-  list-style-type: none;
+
   gap: 30px;
-  color: rgb(37, 37, 98);
+}
+.nav p {
+  color: #337ab7;
+}
+.logo {
 }
 .page {
-  padding: 20px;
+  padding: 0 20px;
 }
 .titleContain {
   display: grid;

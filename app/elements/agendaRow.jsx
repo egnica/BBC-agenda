@@ -27,7 +27,13 @@ const agendaRow = ({ item }) => {
           {Object.entries(item.speakers).map((speaker, index) => {
             return (
               speaker[1].fName != "" && (
-                <Link key={index} href={`${speaker[1].lName.toLowerCase()}/`}>
+                <Link
+                  key={index}
+                  href={{
+                    pathname: `speakers/${speaker[1].lName.toLowerCase()}/`,
+                    query: { from: "agenda" },
+                  }}
+                >
                   <motion.div
                     variants={speakerVariant}
                     whileHover="hover"

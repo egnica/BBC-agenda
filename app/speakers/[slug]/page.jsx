@@ -1,12 +1,20 @@
-import BBC from "../../bbcObject.json";
+import BBC from "../../../bbcObject.json";
 import styles from "./page.module.css";
 import Image from "next/image";
+import Link from "next/link";
 
 ////  ********* SPEAKER PROFILE PAGE
 
-export default async function Page({ params }) {
+export default async function Page({ params, searchParams }) {
   const { slug } = await params; //  Await params before using
   const key = slug.toLowerCase();
+
+  const previousPage =
+    searchParams?.from == "agenda"
+      ? "/"
+      : searchParams?.from == "speakers"
+      ? "speakers"
+      : "/";
 
   // const newSpeakerGroup = Object.values(BBC.event).flatMap(
   //   (value) => value.speakers
@@ -27,6 +35,9 @@ export default async function Page({ params }) {
 
   return (
     <div className={styles.profileContain}>
+      <Link href={`../${previousPage}`}>
+        <div className={styles.btn}>Back</div>
+      </Link>
       <div className={styles.speakerGrid}>
         <Image
           className={styles.profilePic}
@@ -36,7 +47,7 @@ export default async function Page({ params }) {
           alt={`${speaker.fName} ${speaker.lName}`}
         />
 
-        <div>
+        <div className={styles.content}>
           <h1>
             {speaker.fName} {speaker.lName}
           </h1>
