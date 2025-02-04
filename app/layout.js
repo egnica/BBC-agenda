@@ -40,9 +40,9 @@ export default function RootLayout({ children }) {
           <Link href="/">
             <p>Agenda</p>
           </Link>
-          <Link href="/speakers">
+          {/* <Link href="/speakers">
             <p>Speaker</p>
-          </Link>
+          </Link> */}
           <Link href="https://www.barlowresearch.com/BusinessBankingConference_2025/#venue">
             <p>Venue</p>
           </Link>
