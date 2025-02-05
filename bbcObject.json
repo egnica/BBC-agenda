@@ -111,19 +111,18 @@
     },
     {
       "id": "106",
-      "title": "Keynote",
+      "title": "Breaking Down Silos: Adapting to the Future of Banking",
       "day": "tues",
       "time": "12:15pm",
-      "description": "",
+      "description": "In an era marked by advanced technologies, heightened competition, and shifting workplace dynamics, the future of banking requires a new approach. Join Pradip Patiath, Senior Partner with McKinsey & Co, as he explores the critical challenges facing large financial institutions over the next decade. Discover how breaking out of functional silos and adopting a holistic understanding of your role can help your bank thrive in a rapidly evolving social and economic landscape.",
       "assets": "",
       "speakers": [
         {
-          "name": "",
-          "fName": "",
-          "lName": "",
-          "photo": null,
-          "company": "",
-          "title": "",
+          "fName": "Pradip",
+          "lName": "Patiath",
+          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Pradip-Patiath.png",
+          "company": "McKinsey & Company",
+          "title": "Senior Partner",
           "bio": ""
         }
       ]
@@ -304,10 +303,10 @@
     },
     {
       "id": "117",
-      "title": "Keynote",
+      "title": "Why Purpose Matters",
       "day": "wed",
       "time": "8:15am",
-      "description": "",
+      "description": "Banking is built on numbers and risk management, but Amanda Brinkman makes a bold case: purpose is the key to lasting success.This isn’t just another talk about passion - it’s a strategic advantage. Amanda challenges the idea that success is purely financial, showing how purpose-driven professionals build stronger client relationships, drive innovation, and achieve better results. Through engaging stories and real-world examples, she reveals how aligning work with a deeper mission creates impact and long-term value. Attendees will leave with a fresh perspective and practical takeaways to see purpose in their work and lives.",
       "assets": "",
       "speakers": [
         {
@@ -338,10 +337,10 @@
     },
     {
       "id": "119",
-      "title": "Speaker",
+      "title": "Digital +Human - Earning Full Share of Wallet at Acquisition and channel optimization",
       "day": "wed",
       "time": "9:45am",
-      "description": "",
+      "description": "This presentation will cover three key areas. First, we'll explore the dynamics of buying behaviors across different customer segments, focusing on how to effectively leverage both physical and digital sales channels.  Second, we'll discuss streamlining our business product offerings to better meet the payment, receivable, and lending needs of our clients. Finally, we'll delve into redefining digital engagement strategies specifically for small and medium-sized businesses.",
       "assets": "",
       "speakers": [
         {
