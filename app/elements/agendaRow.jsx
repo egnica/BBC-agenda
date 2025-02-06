@@ -30,7 +30,7 @@ const agendaRow = ({ item }) => {
                 <Link
                   key={index}
                   href={{
-                    pathname: `speakers/${speaker[1].lName.toLowerCase()}/`,
+                    pathname: `agenda/speakers/${speaker[1].lName.toLowerCase()}/`,
                     query: { from: "agenda" },
                   }}
                 >
