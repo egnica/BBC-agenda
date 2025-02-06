@@ -17,7 +17,7 @@
   height: 70%;
 }
 .titleDescCont {
-  padding: 5%;
+  padding: 2% 5% 2% 5%;
   margin: 5px;
   background-color: rgb(247, 247, 247);
   border-radius: 10px;
@@ -28,6 +28,7 @@
   grid-template-columns: repeat(auto-fit, minmax(150px, 150px));
   gap: 15px;
   align-items: stretch;
+  padding-top: 10px;
 }
 .speakerCont div {
   display: flex; /* Ensures internal content is evenly distributed */

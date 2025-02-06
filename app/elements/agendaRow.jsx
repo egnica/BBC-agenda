@@ -22,6 +22,7 @@ const agendaRow = ({ item }) => {
       <p style={{ paddingTop: "10px" }}>{item.time}</p>
       <div className={styles.titleDescCont}>
         <h3>{item.title}</h3>
+        <br />
         {item.description != "" && <p>{item.description}</p>}
         <div className={styles.speakerCont}>
           {Object.entries(item.speakers).map((speaker, index) => {
