@@ -1,5 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  basePath: "/BusinessBankingConference_2025/agenda",
+
   images: {
     remotePatterns: [
       {
