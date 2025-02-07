@@ -8,7 +8,11 @@ import Link from "next/link";
 
 const speakers = Object.values(BBC.event)
   .flatMap((value) => value.speakers)
-  .sort((a, b) => a.lName.localeCompare(b.lName));
+  .sort((a, b) => a.lName.localeCompare(b.lName))
+  .filter(
+    (speaker, index, self) =>
+      index === self.findIndex((s) => s.photo === speaker.photo)
+  );
 
 const page = () => {
   return (

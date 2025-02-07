@@ -12,7 +12,7 @@ const agendaRow = ({ item }) => {
       boxShadow: "10px 10px 5px lightblue",
     },
     click: {
-      scale: 0.9,
+      scale: 0.98,
       boxShadow: "inset 0 2px 5px rgba(0, 0, 0, 0.2)",
     },
   };
