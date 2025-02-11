@@ -40,7 +40,7 @@
     },
     {
       "id": "102",
-      "title": "Morning Session",
+      "title": "Featured Content Session",
       "day": "tues",
       "time": "9:00 am",
       "description": "",
@@ -57,7 +57,7 @@
     },
     {
       "id": "103",
-      "title": "Morning Session",
+      "title": "Featured Content Session",
       "day": "tues",
       "time": "10:00 am",
       "description": "",
@@ -75,7 +75,7 @@
     },
     {
       "id": "104",
-      "title": "Lunch",
+      "title": "Lunch/Innovation Showcase Opens",
       "day": "tues",
       "time": "11:00 am",
       "description": "",
@@ -93,7 +93,7 @@
     },
     {
       "id": "105",
-      "title": "Welcome & introductions",
+      "title": "Welcome & Introductions",
       "day": "tues",
       "time": "12:00 pm",
       "description": "",
@@ -129,36 +129,37 @@
     },
     {
       "id": "107",
-      "title": "Session",
+      "title": "2025 and Beyond: Tracking the Economic Pulse of the Business Sector",
       "time": "1:05 pm",
       "day": "tues",
       "description": "",
       "assets": "",
       "speakers": [
         {
-          "fName": "",
-          "lName": "",
-          "photo": "",
-          "company": "",
-          "title": "",
-          "bio": ""
+          "fName": "Joel",
+          "lName": "Mueller",
+          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2025/images/presenters/JoelMueller.png",
+          "company": "Barlow Research",
+          "title": "Managing Partner and Research Director",
+          "bio": "Joel is a Managing Partner and the Research Director at Barlow Research. He heads up Barlow Research's proprietary & custom research division and serves as the manager of the analyst team. He is responsible for the strategy, administration, analysis and reporting of various proprietary & custom studies. Joel specializes in both small business and middle market research and has led large-scale research initiatives in small business lending, small office/home office businesses and vertical/industry value proposition analyses. Joel graduated from University of Wisconsin-Stout, where he earned both a bachelor's degree in psychology and a master's degree in applied psychology with concentrations in evaluation research, industrial-organizational psychology and health promotion & disease prevention. In his free time, Joel enjoys woodworking, camping and spending time with his family and friends."
         }
       ]
     },
     {
       "id": "108",
-      "title": "MMB Panel",
+      "title": "Middle Market Banking Panel - Driving Growth in the Innovation Economy: Delivering the Whole Bank Experience from Startup to Corporate Banking",
       "day": "tues",
       "time": "1:35 pm",
       "description": "",
       "assets": "",
       "speakers": [
         {
-          "fName": "",
-          "lName": "",
-          "photo": null,
-          "title": "",
-          "bio": ""
+          "fName": "Megan",
+          "lName": "Seitchik",
+          "company": "Barlow Research",
+          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2025/images/presenters/MeganSeitchik.png",
+          "title": "Middle Market Program Director",
+          "bio": "Megan joined Barlow Research Associates, Inc. in June 2022 as the Middle Market Program Director. She received her Bachelor’s in Psychology and Economics from Denison University and continued on to Wake Forest University for her Master’s degree in Psychology and The Graduate Center at City University of New York for her Ph.D. in Industrial/Organizational Psychology.<br/><br/>Prior to joining Barlow Research, Megan was with J.P. Morgan Chase for 12 years and was the Director of Research and Market Intelligence for the Commercial Bank for 7 years.<br/><br/>In her free time, Megan enjoys spending time with her family, traveling, and being outdoors."
         }
       ]
     },
@@ -219,18 +220,19 @@
     },
     {
       "id": "112",
-      "title": "DBB Panel",
+      "title": "Digital Business Banking Panel - The Role of Digital Banking in Defending Businesses Against Security Risks and Fraud",
       "day": "tues",
       "time": "3:40 pm",
       "description": "",
       "assets": "",
       "speakers": [
         {
-          "fName": "",
-          "lName": "",
-          "photo": null,
-          "title": "",
-          "bio": ""
+          "fName": "Vidya",
+          "lName": "Vishal",
+          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2025/images/presenters/VidyaVishal.png",
+          "company": "Barlow Research",
+          "title": "Digital Business Banking Director",
+          "bio": "Vidya leads the Digital Business Banking program at Barlow Research Associates. With a robust background in Financial Services, Vidya has held pivotal senior leadership roles at Equifax and Truist, and has also contributed her expertise to fintech startups. Her strategic acumen, creativity, and rigorous execution have consistently delivered impactful results throughout her career.<br/><br/>Vidya holds an M.B.A. from The Fuqua School of Business, Duke University, and an Electronics and Communications Engineering degree from a renowned university in India. Based in Atlanta, Vidya enjoys balancing her professional life with family activities, board engagements, a passion for reading, and travel."
         }
       ]
     },
@@ -322,18 +324,19 @@
     },
     {
       "id": "118",
-      "title": "SB Banking Panel",
+      "title": "Small Business Banking Panel",
       "day": "wed",
       "time": "9:05am",
       "description": "",
       "assets": "",
       "speakers": [
         {
-          "fName": "",
-          "lName": "",
-          "photo": null,
-          "title": "",
-          "bio": ""
+          "fName": "Sandy",
+          "lName": "Hanson",
+          "photo": "https://www.barlowresearch.com/BusinessBankingConference_2025/images/presenters/SandyHanson.png",
+          "company": "Barlow Research",
+          "title": "Managing Partner, Treasurer and Small Business Program Director",
+          "bio": "Sandy became a Managing Partner at Barlow Research in 2020. She is responsible for the ongoing development and management of the Small Business Banking Program. Sandy has over 15 years of experience studying small business banking behaviors and working to support our clients’ initiatives with the Voice of the Small Business customer. In addition, she has extensive experience with custom research in the small business and middle market business segments. Sandy also serves as the Treasurer of the company. Sandy received her Bachelor's of Science in Psychology from the University of Wisconsin-Superior and her Master's of Science in Applied Psychology at the University of Wisconsin-Stout. In her free time, she enjoys spending time with her family, listening to live music and traveling."
         }
       ]
     },
@@ -442,7 +445,7 @@
     },
     {
       "id": "126",
-      "title": "Business Banking Alliance: Compass Program - Invite Only",
+      "title": "Business Banking Blueprint Roundtable - Invite Only",
       "day": "wed",
       "time": "1:00pm",
       "description": "",

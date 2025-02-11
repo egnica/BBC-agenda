@@ -8,9 +8,10 @@
 }
 .agendaRow {
   display: grid;
-  grid-template-columns: 0.1fr 0.15fr 1fr;
-  padding: 10px;
-  margin: 15px 0;
+  grid-template-columns: 0.05fr 0.15fr 1fr;
+  padding: 5px;
+  margin: 5px 0;
+  max-width: 95%;
 }
 .lineDivide {
   border-left: 2px solid black;
@@ -24,7 +25,7 @@
 }
 .speakerCont {
   display: grid;
-  place-content: center;
+
   grid-template-columns: repeat(auto-fit, minmax(150px, 150px));
   gap: 15px;
   align-items: stretch;

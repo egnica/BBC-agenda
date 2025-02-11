@@ -44,8 +44,8 @@ const agendaRow = ({ item }) => {
                       <Image
                         className={styles.image}
                         src={speaker[1].photo}
-                        width={100}
-                        height={100}
+                        width={65}
+                        height={65}
                         style={{ width: "auto", height: "auto" }}
                         alt={`Photo of ${speaker[1].lname}`}
                       />
