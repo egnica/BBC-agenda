@@ -21,7 +21,11 @@ const agendaRow = ({ item }) => {
       <div className={styles.lineDivide}></div>
       <p style={{ paddingTop: "10px" }}>{item.time}</p>
       <div className={styles.titleDescCont}>
-        <h3>{item.title}</h3>
+        <h3>
+          {item.title}{" "}
+          <span style={{ fontWeight: "lighter" }}>{item.secondTitle}</span>
+        </h3>
+
         <br />
         {item.description != "" && <p>{item.description}</p>}
         <div className={styles.speakerCont}>
