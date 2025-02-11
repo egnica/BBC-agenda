@@ -23,7 +23,7 @@ const agendaRow = ({ item }) => {
       <div className={styles.titleDescCont}>
         <h3>
           {item.title}{" "}
-          <span style={{ fontWeight: "lighter" }}>{item.secondTitle}</span>
+          <span style={{ fontWeight: "500" }}>{item.secondTitle}</span>
         </h3>
 
         <br />
