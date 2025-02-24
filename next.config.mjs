@@ -7,7 +7,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "www.barlowresearch.com",
+        hostname: "mybarlow.barlowresearch.com",
         pathname: "/**",
       },
     ],
