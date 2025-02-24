@@ -28,7 +28,7 @@ const agendaRow = ({ item }) => {
 
         <br />
         {item.description != "" && (
-          <p dangerouslySetInnerHTML={{ __html: item.description }}></p>
+          <div dangerouslySetInnerHTML={{ __html: item.description }}></div>
         )}
         <div className={styles.speakerCont}>
           {Object.entries(item.speakers).map((speaker, index) => {
