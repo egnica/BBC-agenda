@@ -52,7 +52,7 @@ export default function RootLayout({ children }) {
           <Link href="https://barlowresearch.com/?page_id=9421#faq">
             <p>FAQ</p>
           </Link>
-          <Link href="https://barlowresearch.com/?page_id=9421#sponsor">
+          <Link href="https://barlowresearch.com/?page_id=9421#sponsors">
             <p>Sponsors</p>
           </Link>
         </nav>
