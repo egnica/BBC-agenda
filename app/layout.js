@@ -24,17 +24,17 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         <nav className={styles.nav}>
-          <Link href="https://www.barlowresearch.com/index.php" passHref>
+          <Link href="https://www.barlowresearch.com" passHref>
             <Image
               className={styles.logo}
               height={100}
               width={100}
-              src="https://www.barlowresearch.com/BusinessBankingConference_2025/images/logo2.png"
+              src="https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/logo2.png"
               alt={`barlow logo`}
             />
           </Link>
 
-          <Link href="https://www.barlowresearch.com/BusinessBankingConference_2025/">
+          <Link href="https://barlowresearch.com/?page_id=9421">
             <p>Home</p>
           </Link>
           <Link href="/">
@@ -43,15 +43,15 @@ export default function RootLayout({ children }) {
           {/* <Link href="/speakers">
             <p>Speaker</p>
           </Link> */}
-          <Link href="https://www.barlowresearch.com/BusinessBankingConference_2025/#venue">
+          <Link href="https://barlowresearch.com/?page_id=9421#venue">
             <p>Venue</p>
           </Link>
-          <Link href="https://www.barlowresearch.com/BusinessBankingConference_2025/#accommodations">
+          <Link href="https://barlowresearch.com/?page_id=9421#hotel">
             <p>Hotels</p>
           </Link>
-          <Link href="https://www.barlowresearch.com/BusinessBankingConference_2025/#sponsor">
+          {/* <Link href="https://www.barlowresearch.com/BusinessBankingConference_2025/#sponsor">
             <p> Sponsors</p>
-          </Link>
+          </Link> */}
         </nav>
         {children}
       </body>
