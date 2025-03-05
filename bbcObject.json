@@ -57,19 +57,35 @@
     },
     {
       "id": "103",
-      "title": "Featured Content Session",
+      "title": "Winning Wallet Share with Industry Data",
       "day": "tues",
       "time": "10:00 am",
-      "description": "",
+      "description": "Finding a wedge product is not easy, but is worth the effort. Businesses face challenges ranging from cash flow to inventory, and they look to their bankers as a center of influence in making their next strategic decision. Using industry financial benchmarks, craft stronger solutions that meet you customers where they are along their business cycle.",
       "assets": "",
       "speakers": [
         {
-          "fName": "",
-          "lName": "",
-          "photo": null,
-          "company": "",
-          "title": "",
-          "bio": ""
+          "fName": "Kurt",
+          "lName": "Salter",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/KurtSalter.png",
+          "company": "IBISWorld",
+          "title": "Senior Relationship Manager",
+          "bio": "A Michigan native, Kurt has worked with IBISWorld’s Banking customers since 2014 – both from the NYC office as well as his current Detroit Metro location. His specialization within the team is across Regional and National banks."
+        },
+        {
+          "fName": "Martin",
+          "lName": "Punt",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/MartinPunt.png",
+          "company": "IBISWorld",
+          "title": "Relationship Manager",
+          "bio": "An avid soccer fan, Martin has worked on the Business Development & Client Service teams at IBISWorld, beginning in 2019. His specialization within the team is across Regional and Community Banks."
+        },
+        {
+          "fName": "Mohamed",
+          "lName": "Ibrahim",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/MohamedIbrahim.png",
+          "company": "IBISWorld",
+          "title": "Relationship Manager",
+          "bio": "A former banker himself, Mohamed worked at Citi, TD, and City National. He has worked with IBISWorld’s Banking customers since 2021. His specialization within the team is across Community and National Banks, as well as Credit Unions."
         }
       ]
     },
