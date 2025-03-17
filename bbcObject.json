@@ -127,8 +127,8 @@
     },
     {
       "id": "106",
-      "title": "Keynote ",
-      "secondTitle": "- Breaking Down Silos: Adapting to the Future of Banking",
+      "title": "Keynote: ",
+      "secondTitle": "Breaking Down Silos: Adapting to the Future of Banking",
       "day": "tues",
       "time": "12:15pm",
       "description": "In an era marked by advanced technologies, heightened competition, and shifting workplace dynamics, the future of banking requires a new approach. Join Pradip Patiath, Senior Partner with McKinsey & Co, as he explores the critical challenges facing large financial institutions over the next decade. Discover how breaking out of functional silos and adopting a holistic understanding of your role can help your bank thrive in a rapidly evolving social and economic landscape.",
@@ -165,8 +165,8 @@
     },
     {
       "id": "108",
-      "title": "Middle Market Banking Panel ",
-      "secondTitle": "- Driving Growth in the Innovation Economy: Delivering the Whole Bank Experience from Startup to Corporate Banking",
+      "title": "Middle Market Banking Panel: ",
+      "secondTitle": "Driving Growth in the Innovation Economy: Delivering the Whole Bank Experience from Startup to Corporate Banking",
       "day": "tues",
       "time": "1:35 pm",
       "description": "",
@@ -239,8 +239,8 @@
     },
     {
       "id": "112",
-      "title": "Digital Business Banking Panel ",
-      "secondTitle": "- The Role of Digital Banking in Defending Businesses Against Security Risks and Fraud",
+      "title": "Digital Business Banking Panel: ",
+      "secondTitle": "The Role of Digital Banking in Defending Businesses Against Security Risks and Fraud",
       "day": "tues",
       "time": "3:40 pm",
       "description": "",
@@ -261,7 +261,7 @@
       "title": "Unlocking Potential: ",
       "secondTitle": "Empowering the Emerging Middle Market ",
       "day": "tues",
-      "time": "4:15 pm",
+      "time": "4:25 pm",
       "description": "Join Visa and the National Center for the Middle Market for an engaging fireside chat that dives deep into the dynamic U.S. Emerging Middle Market (EMM). In this session, you'll discover:<br><ul style='padding-left: 40px;'><li>Why the EMM Matters: Understand the pivotal role of the emerging middle market in driving innovation and economic growth.</li><li>Evolving Needs of Emerging Companies: Gain insights into the unique challenges and opportunities facing these businesses today.</li><li>Unlocking Future Potential: Explore actionable strategies and best practices designed to empower emerging companies to thrive in a competitive landscape.</li></ul>",
       "assets": "",
       "speakers": [
@@ -336,10 +336,10 @@
     },
     {
       "id": "117",
-      "title": "Keynote ",
-      "secondTitle": "- Why Purpose Matters",
+      "title": "Keynote: ",
+      "secondTitle": "Why Purpose Matters",
       "day": "wed",
-      "time": "8:15am",
+      "time": "8:05am",
       "description": "Banking is built on numbers and risk management, but Amanda Brinkman makes a bold case: purpose is the key to lasting success.This isn’t just another talk about passion - it’s a strategic advantage. Amanda challenges the idea that success is purely financial, showing how purpose-driven professionals build stronger client relationships, drive innovation, and achieve better results. Through engaging stories and real-world examples, she reveals how aligning work with a deeper mission creates impact and long-term value. Attendees will leave with a fresh perspective and practical takeaways to see purpose in their work and lives.",
       "assets": "",
       "speakers": [
@@ -373,8 +373,8 @@
     },
     {
       "id": "119",
-      "title": "Digital + Human ",
-      "secondTitle": "- Earning Full Share of Wallet at Acquisition and Channel Optimization",
+      "title": "Digital + Human: ",
+      "secondTitle": "Earning Full Share of Wallet at Acquisition and Channel Optimization",
       "day": "wed",
       "time": "9:45am",
       "description": "This presentation will cover three key areas. First, we'll explore the dynamics of buying behaviors across different customer segments, focusing on how to effectively leverage both physical and digital sales channels.  Second, we'll discuss streamlining our business product offerings to better meet the payment, receivable, and lending needs of our clients. Finally, we'll delve into redefining digital engagement strategies specifically for small and medium-sized businesses.",
@@ -426,40 +426,25 @@
     },
     {
       "id": "122",
-      "title": "Fireside Chat",
+      "title": "Building Scale Together: ",
+      "secondTitle": "Removing Friction Between Banks and High-Growth Companies",
       "day": "wed",
-      "time": "11:05am",
-      "description": "",
+      "time": "11:20am",
+      "description": "Discover firsthand insights from Boomer Muth on scaling a business from inception to over half a billion dollars in revenue, focusing on the critical role banking and financial partnerships play in growth trajectories. Learn about the friction points encountered, missed opportunities, and how embracing a high-leverage mindset—paired with the right people and technologies—can unlock exponential growth. This session synthesizes key learnings from the conference into actionable strategies for banking leaders seeking to enhance their impact and drive customer success.",
       "assets": "",
       "speakers": [
         {
-          "fName": "",
-          "lName": "",
-          "photo": null,
-          "title": "",
-          "bio": ""
+          "fName": "Boomer",
+          "lName": "Muth",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Boomer-Muth.png",
+          "title": "Co-founder and Executive Vice Chair",
+          "company": "Koalafi",
+          "bio": "Boomer Muth is the Co-founder and Executive Vice Chair of Koalafi, a leading point-of-sale fintech company he scaled from startup to over $600 million in annual revenue. Koalafi partners with over 25,000 merchants nationwide—including HP—empowering underserved consumers through transparent and flexible financing solutions. The company's rapid growth has been recognized by Deloitte, and Forbes named Koalafi as one of America's best startup employers."
         }
       ]
     },
     {
       "id": "123",
-      "title": "Session",
-      "day": "wed",
-      "time": "11:35am",
-      "description": "",
-      "assets": "",
-      "speakers": [
-        {
-          "fName": "",
-          "lName": "",
-          "photo": null,
-          "title": "",
-          "bio": ""
-        }
-      ]
-    },
-    {
-      "id": "124",
       "title": "Concluding Remarks + Lunch",
       "day": "wed",
       "time": "12:00pm",

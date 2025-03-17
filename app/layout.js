@@ -24,17 +24,23 @@ export default function RootLayout({ children }) {
             <Image
               className={styles.logo}
               height={50}
-              width={180}
+              width={200}
               src="https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/barlow-row-blk-logo.png"
               alt={`barlow logo`}
             />
           </Link>
 
-          <Link href="https://barlowresearch.com/?page_id=9421">
+          <Link href="https://barlowresearch.com/">
             <p className={styles.link}>Home</p>
+          </Link>
+          <Link href="https://barlowresearch.com/?page_id=9421">
+            <p className={styles.link}>Conference</p>
           </Link>
           <Link href="/">
             <p className={styles.link}>Agenda</p>
+          </Link>
+          <Link href="https://barlowresearch.com/?page_id=9421#cost">
+            <p className={styles.link}>Pricing</p>
           </Link>
           {/* <Link href="/speakers">
             <p className={styles.link}>Speaker</p>
@@ -45,11 +51,11 @@ export default function RootLayout({ children }) {
           <Link href="https://barlowresearch.com/?page_id=9421#hotel">
             <p className={styles.link}>Hotels</p>
           </Link>
-          <Link href="https://barlowresearch.com/?page_id=9421#faq">
-            <p>FAQ</p>
-          </Link>
           <Link href="https://barlowresearch.com/?page_id=9421#sponsors">
             <p className={styles.link}>Sponsors</p>
+          </Link>
+          <Link href="https://barlowresearch.com/?page_id=9421#faq">
+            <p>FAQ</p>
           </Link>
         </nav>
         {children}
