@@ -6,6 +6,7 @@ import Link from "next/link";
 ////  ********* SPEAKER PROFILE PAGE
 
 export default async function Page({ params, searchParams }) {
+  
   const { slug } = await params; //  Await params before using
   const key = slug.toLowerCase();
 
@@ -40,6 +41,7 @@ export default async function Page({ params, searchParams }) {
       </Link>
       <div className={styles.speakerGrid}>
         <Image
+      
           className={styles.profilePic}
           height={300}
           width={300}
