@@ -24,7 +24,7 @@
       "id": "101",
       "title": "Breakfast",
       "day": "tues",
-      "time": "8:00 am",
+      "time": "8:30 am",
       "description": "",
       "assets": "",
       "speakers": [
@@ -436,10 +436,27 @@
     },
     {
       "id": "122",
+      "title": "Fireside chat",
+      "day": "wed",
+      "time": "11:20am",
+      "description": "",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "",
+          "lName": "",
+          "photo": null,
+          "title": "",
+          "bio": ""
+        }
+      ]
+    },
+    {
+      "id": "123",
       "title": "Building Scale Together: ",
       "secondTitle": "Removing Friction Between Banks and High-Growth Companies",
       "day": "wed",
-      "time": "11:20am",
+      "time": "11:50am",
       "description": "Discover firsthand insights from Boomer Muth on scaling a business from inception to over half a billion dollars in revenue, focusing on the critical role banking and financial partnerships play in growth trajectories. Learn about the friction points encountered, missed opportunities, and how embracing a high-leverage mindset—paired with the right people and technologies—can unlock exponential growth. This session synthesizes key learnings from the conference into actionable strategies for banking leaders seeking to enhance their impact and drive customer success.",
       "assets": "",
       "speakers": [
@@ -457,7 +474,7 @@
       "id": "123",
       "title": "Concluding Remarks + Lunch",
       "day": "wed",
-      "time": "12:00pm",
+      "time": "12:30pm",
       "description": "",
       "assets": "",
       "speakers": [
