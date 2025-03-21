@@ -41,7 +41,7 @@ export default async function Page({ params, searchParams }) {
       </Link>
       <div className={styles.speakerGrid}>
         <Image
-      
+        
           className={styles.profilePic}
           height={300}
           width={300}

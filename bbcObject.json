@@ -230,27 +230,10 @@
     },
     {
       "id": "111",
-      "title": "Session",
-      "day": "tues",
-      "time": "3:05 pm",
-      "description": "",
-      "assets": "",
-      "speakers": [
-        {
-          "fName": "",
-          "lName": "",
-          "photo": null,
-          "title": "",
-          "bio": ""
-        }
-      ]
-    },
-    {
-      "id": "112",
       "title": "Digital Business Banking Panel: ",
       "secondTitle": "The Role of Digital Banking in Defending Businesses Against Security Risks and Fraud",
       "day": "tues",
-      "time": "3:40 pm",
+      "time": "3:05 pm",
       "description": "",
       "assets": "",
       "speakers": [
@@ -261,6 +244,25 @@
           "company": "Barlow Research",
           "title": "Digital Business Banking Director",
           "bio": "Vidya leads the Digital Business Banking program at Barlow Research Associates. With a robust background in Financial Services, Vidya has held pivotal senior leadership roles at Equifax and Truist, and has also contributed her expertise to fintech startups. Her strategic acumen, creativity, and rigorous execution have consistently delivered impactful results throughout her career.<br/><br/>Vidya holds an M.B.A. from The Fuqua School of Business, Duke University, and an Electronics and Communications Engineering degree from a renowned university in India. Based in Atlanta, Vidya enjoys balancing her professional life with family activities, board engagements, a passion for reading, and travel."
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "title": "From Transactions to Intelligence: ",
+      "secondTitle": "The Wells Fargo Shift to Data-Driven Banking",
+      "day": "tues",
+      "time": "3:40 pm",
+      "description": "This session will examine the financial services evolution at Wells Fargo from an eye-to-eye business model through a whirlwind of digital transformation where providers strive to move to data driven decision making platforms vs a collection of one-off transaction flows launched from a home page (the industry standard). Additionally, learn what the impact is to the bank from a business models perspective and to the business clients who continue to be at the center of everything.",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Chris",
+          "lName": "Fritz",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Chris-Fritz.png",
+          "company": "Wells Fargo",
+          "title": "Director of the Lending and Investment Banking (Capital Markets) Digital Journeys",
+          "bio": "Chris is the Director of the Lending and Investment Banking (Capital Markets) Digital Journeys. In this role, he and his team are transforming the wholesale digital journey from a traditional task-based experience into a data-driven, decision-making platform that facilitates simple execution.<br/><br/>The team is employing market and proprietary data with digital design and AI driven workflows to make each user’s experience bespoke.  Their work is done in partnership with CB and CIB teams as well as with the Treasury, Onboarding, and Self-Service Digital Product Teams. Chris is also a new host of Wells Fargo’s Treasury Takeaways podcast.<br/><br/>Chris came to Wells Fargo in 2022 from Charles Schwab where he was the Managing Director of the Digital Trading Experiences. In this role Chris and team defined and delivered a comprehensive and improved digital trading strategy which included the award-winning Schwab Stock Slices and the Digital Trading Redesign. <br/><br/>Chris formerly held senior positions with SunTrust and JP Morgan serving as SVP and Head of Digital Solutions at SunTrust and Executive Director and Head of Online Payments, Integrated File Management, and Mobile for JP Morgan ACCESS. During his time managing these products they won multiple Greenwich Associates awards for being best in class. <br/><br/>Earlier in his career, Chris also held position as a commercial lender managing a portfolio of middle market clients and an underwriter for large corporate finance and leasing clients. Prior, Chris was a founding partner of Fenster auf G.m.b.H. an economic development firm serving Easter Europe from Vienna. In this role Chris was allowed to operate way over his skis providing equity, financing along with consulting services (primarily financial, operational and strategic).<br/><br/>Chris holds an MBA from Kellogg and a BA in Business and Economics from Wheaton College where he played basketball and football while also studying Theology and Art. <br/><br/>Chris and his family live outside of Chicago where he spends his time trying not to feel uneducated while his wife Aimee attends Seminary, twins Caleb and Zoe attend college and his youngest, Greta attends high school. "
         }
       ]
     },
