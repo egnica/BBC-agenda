@@ -22,9 +22,9 @@
   "event": [
     {
       "id": "101",
-      "title": "Breakfast",
+      "title": "Innovation Showcase Opens",
       "day": "tues",
-      "time": "8:30 am",
+      "time": "9:00 am",
       "description": "",
       "assets": "",
       "speakers": [
@@ -39,10 +39,65 @@
       ]
     },
     {
-      "id": "102",
-      "title": "Featured Content Session",
+      "id": "100",
+      "title": "Opening Remarks",
       "day": "tues",
-      "time": "9:00 am",
+      "time": "10:00 am",
+      "description": "",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "",
+          "lName": "",
+          "photo": "",
+          "company": "",
+          "title": "",
+          "bio": ""
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "title": "Welcome and Introductions",
+      "day": "tues",
+      "time": "10:15 am",
+      "description": "",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Youa",
+          "lName": "Yang",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/YouaYang.png",
+          "company": "Barlow Research",
+          "title": "Managing Partner and COO",
+          "bio": "Youa is a Managing Partner and Chief Operating Officer at Barlow Research. She provides leadership and general day-to-day management to the company’s teams. She is also responsible for leading, guiding and executing on the company’s vision and ensuring alignment with Barlow’s goals. With more than 20 years of market research experience, Youa aims to foster a growth-oriented and positive environment to continue Barlow’s gold standard in business banking research. Youa holds a B.A. from the University of Minnesota-Duluth and attended the University of Wisconsin, Stout. In her spare time, she enjoys spending time with her family and friends and traveling the world."
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "title": "Breaking Down Silos: ",
+      "secondTitle": "Adapting to the Future of Banking",
+      "day": "tues",
+      "time": "10:20 am",
+      "description": "In an era marked by advanced technologies, heightened competition, and shifting workplace dynamics, the future of banking requires a new approach. Join Pradip Patiath, Senior Partner with McKinsey & Co, as he explores the critical challenges facing large financial institutions over the next decade. Discover how breaking out of functional silos and adopting a holistic understanding of your role can help your bank thrive in a rapidly evolving social and economic landscape.",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Pradip",
+          "lName": "Patiath",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Pradip-Patiath.png",
+          "company": "McKinsey & Company",
+          "title": "Senior Partner",
+          "bio": "Pradip Patiath is a Senior Partner at McKinsey & Company and senior global leader in McKinsey’s Financial Services and Digital practices. Over the years, he has led several of McKinsey’s global practices, including Consumer/Business Banking, Digital Insurance, and Midwest Financial Services. He has also been the Managing Partner of the Digital McKinsey office in the Midwest and Canada.<br/><br/>Over the past two decades, Mr. Patiath has served clients in the banking, wealth management, insurance, private equity, asset management, payments and FinTech sectors on issues of strategy, growth, organization, turnarounds, M&A, distribution, operations and digital transformation, and has personally led a number of business builds and major performance transformations. His experience has spanned North America and several international markets across the U.K., Europe, South America and Asia. He has authored several leading publications, most recently on the topic of disruption and rapid digitization within financial services. He is a frequent public speaker and commentator at major global financial services and technology industry conferences.<br/><br/>Mr. Patiath’s prior experience has included building an enterprise software company in the digital insurance sector as President and COO of CCC Information Services. Previously, he also worked for Honeywell, Inc. in Minneapolis, MN, and for Schlumberger in Paris, France. He was awarded a US patent in the field of real-time digital transaction systems. Mr. Patiath is very active in Chicago’s civic community. He recently served as the Chair of the Board of the Adler Planetarium of Chicago, and serves on several other Boards, including Northwestern University’s Kellogg School Global Advisory Board and the Chicago Humanities Festival. He is also a member of the Economic Club of Chicago and is actively involved with and supports several civic institutions, including Marwen, American India Foundation, the Field Museum and the Art Institute of Chicago.<br/><br/>Mr. Patiath holds an MBA degree with distinction from Northwestern University’s Kellogg School of Management. He also holds an MS degree in computer science and received his BS degree in mechanical engineering from Indian Institute of Technology, New Delhi."
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "title": "Lunch",
+      "day": "tues",
+      "time": "11:00 am",
       "description": "",
       "assets": "",
       "speakers": [
@@ -50,8 +105,36 @@
           "fName": "",
           "lName": "",
           "photo": null,
+          "company": "",
           "title": "",
           "bio": ""
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "title": "Catapulting Into 2025: ",
+      "secondTitle": "What’s in Store for Small and Mid-Sized Businesses?",
+      "time": "12:00 pm",
+      "day": "tues",
+      "description": "Barlow Research continuously collects data from small businesses and middle market companies about the state of their financial conditions and their outlook on the future. We are pleased to be able to present our latest findings on how businesses are reacting to a new administration, new policy changes and new challenges. We are also excited to be joined by Karen Kerrigan, President & CEO of the Small Business & Entrepreneurship Council (SBE), who will provide her unique perspective on the state of the current business environment. ",
+      "assets": "",
+      "speakers": [
+        {
+          "fName": "Joel",
+          "lName": "Mueller",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/JoelMueller.png",
+          "company": "Barlow Research",
+          "title": "Managing Partner and Research Director",
+          "bio": "Joel is a Managing Partner and the Research Director at Barlow Research. He heads up Barlow Research's proprietary & custom research division and serves as the manager of the analyst team. He is responsible for the strategy, administration, analysis and reporting of various proprietary & custom studies. Joel specializes in both small business and middle market research and has led large-scale research initiatives in small business lending, small office/home office businesses and vertical/industry value proposition analyses. Joel graduated from University of Wisconsin-Stout, where he earned both a bachelor's degree in psychology and a master's degree in applied psychology with concentrations in evaluation research, industrial-organizational psychology and health promotion & disease prevention. In his free time, Joel enjoys woodworking, camping and spending time with his family and friends."
+        },
+        {
+          "fName": "Karen",
+          "lName": "Kerrigan",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Karen-Kerrigan.png",
+          "company": "Small Business & Entrepreneurship Council",
+          "title": "President & CEO",
+          "bio": "For nearly thirty years Karen Kerrigan’s leadership, advocacy and training work has helped foster U.S. entrepreneurship and global business growth.  She is  president & CEO of the <a style='color: blue;' href='https://sbecouncil.org/'> Small Business & Entrepreneurship Council</a>, and is the group’s chief advocate for its members. In January 2024, Kerrigan received certification as a Health and Wellness Coach. Kerrigan regularly testifies before the U.S. Congress on a wide range of issues impacting entrepreneurs, startups, investment and the economy. She has been appointed to numerous federal advisory boards including the <a style='color: blue;' href='https://www.nwbc.gov/'>National Women’s Business Council</a> , the U.S.-Iraq Business Dialog, the U.S. Treasury’s Taxpayer Advisory Panel, and the National Advisory Committee for Labor Provisions of U.S. Free Trade Agreements. Kerrigan regularly engages with the President’s cabinet and key advisors, and has spoken or led roundtables at White House economic summits, scores of events hosted by the Small Business Administration, U.S. Treasury Department, Securities and Exchange Commission and other federal government agencies and departments. She is a collaborative and well-respected individual within the business and think-tank community who has led numerous coalitions and initiatives with diverse partners and organizations. She has also served on NAWBO’s Advisory Council, Verizon’s Consumer Advisory Board, and the Domenici-Rivlin Debt Reduction Task Force, among other advisory roles over the course of her career. She also serves on the board (and chairs the Health, Wellness and Fitness Committee) of the Vienna Business Association, and the Bayh-Dole Coalition. She has written hundreds of Op-Eds and newspaper columns, and regularly appears on national television and talk radio programs. Kerrigan regularly appears on Fox Business to provide analysis and commentary on the latest economic data, what’s driving the markets, and the outlook for the economy, entrepreneurship and small business growth.<br/><br/><a style='color: blue;' href='https://sbecouncil.org/2018/11/30/karen-kerrigan-leadership-for-smallbiz/'> Accolades for Karen’s work</a>.<br/> She has been called America’s “entrepreneurial envoy” and “small business ambassador” for her extensive speaking, knowledge sharing and capacity-building work overseas. Kerrigan is a founding member of the World Entrepreneurship Forum and has provided counsel to governments and business associations across the globe regarding entrepreneurial development, capacity building, policy formation and implementation. She has traveled to Belarus, Kazakhstan, Tunisia, Israel, Morocco, Nepal, the Palestinian territories, among many other nations on behalf of the U.S. State Department to work with business leaders, women and youth entrepreneurs, and government officials on advancing reforms and programs to encourage entrepreneurship, investment, and business growth.  Kerrigan is a board member/audit committee Chair and former board Chair of the <a style='color: blue;' href='https://www.cipe.org/'> Center for International Private Enterprise (CIPE)</a>, one of the core institutes of the National Endowment for Democracy, which works to strengthen democracy around the globe through private enterprise and market-oriented reforms. She is a <a style='color: blue;' href='https://worldin2050.diplomaticourier.com/brain-trust/'> World in 2050 Brain Trust</a> member of the Diplomatic Courier. “The hardest working woman in show business,” <br/><br/>The Hill BizTech Magazine named Kerrigan to its <a style='color: blue;' href='https://biztechmagazine.com/article/2020/11/30-small-business-it-influencers-follow-2020'> Small Business Influencer IT List</a> in November 2020. In July 2018, Kerrigan was named to Fit Small Business’s “Top Small Business Influencers of 2018.”  She was presented with the “Crowdfundie Award” at the 2017 Global Crowdfunding Convention for her leadership and advocacy on crowdfunding issues. In November of 2017, the Global IP Center of the U.S. Chamber <a style='color: blue;' href='https://sbecouncil.org/2017/11/15/u-s-chambers-global-ip-center-honors-ip-leaders-sbe-councils-kerrigan-receives-excellence-in-advocacy-award/'>Kerrigan with its “Excellence in Advocacy” award</a> for her work on strengthening IP protections, and for her advocacy and outreach regarding the importance of IP for investment, innovation and entrepreneurship.  In 2014, 2013, 2012 and 2011 she was named a Top 100 Champion Small Business Influencer by Small Business Trends.  CEO World Magazine named Kerrigan a <a style='color: blue;' href='https://sbecouncil.org/2013/11/08/ceo-world-names-sbe-councils-kerrigan-a-top-power-women-in-u-s-crowdfunding/'>'Top Power Woman in Crowdfunding”</a> (November 2013),  and in May 2016 she was presented with the New Capital Markets Leadership Award by the Crowdfund Intermediary Regulatory Advocates (CFIRA) and Crowdfund Capital Advisors for her steadfast leadership and work in making equity and debt-based crowdfunding legal. InNovember of 2009 Kerrigan was awarded the “Small Business Advocate of the Year” by the NY Enterprise Report.  Among media accolades, Inc. Magazine named Kerrigan to its small business “Best Friends in D.C.” (2006) list as a <a style='color: blue;' href='https://www.inc.com/magazine/20060201/dc-brokers.html'> “power broker and activist”</a> with “serious clout” for entrepreneurs; Fortune Small Business to its “Power 30” list (2000); and The Hill newspaper to its “most influential small business” list (2006) describing Kerrigan as “the hardest working woman in show business.”  In 1995, National Journal named Kerrigan to its short list of “K Street” activists most likely to have an impact on Capitol Hill. Campaigns and Elections Magazine named her as one of its “Rising Stars in Politics” in its April 1996 issue.  She lectures frequently at colleges and universities, making appearances at Harvard Business School, Georgetown University, University of Maryland, Ohio State University and many others including institutions outside of the United States. Kerrigan graduated from SUNY Cortland with a B.A. in Political Science, and she currently serves on the Cortland College Foundation Board. She resides with her family in Northern Virginia.<br/><br/>Twitter: @KarenKerrigan<br/>Linked In: /karenkerrigan"
         }
       ]
     },
@@ -59,7 +142,7 @@
       "id": "103",
       "title": "Winning Wallet Share with Industry Data",
       "day": "tues",
-      "time": "10:00 am",
+      "time": "12:35 pm",
       "description": "As businesses increasingly expect more from their banks to strategically grow, IBISWorld has integrated Barlow Research's Bank Product Data to meet customer expectations by presenting relevant banking solutions, based on industry, throughout all stages of the relationship. Join this session to learn how data like this connects to inform stronger customer conversations.",
       "assets": "",
       "speakers": [
@@ -90,94 +173,12 @@
       ]
     },
     {
-      "id": "104",
-      "title": "Lunch/Innovation Showcase Opens",
-      "day": "tues",
-      "time": "11:00 am",
-      "description": "",
-      "assets": "",
-      "speakers": [
-        {
-          "fName": "",
-          "lName": "",
-          "photo": null,
-          "company": "",
-          "title": "",
-          "bio": ""
-        }
-      ]
-    },
-    {
-      "id": "105",
-      "title": "Welcome & Introductions",
-      "day": "tues",
-      "time": "12:00 pm",
-      "description": "",
-      "assets": "",
-      "speakers": [
-        {
-          "fName": "Youa",
-          "lName": "Yang",
-          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/YouaYang.png",
-          "company": "Barlow Research",
-          "title": "Managing Partner and COO",
-          "bio": "Youa is a Managing Partner and Chief Operating Officer at Barlow Research. She provides leadership and general day-to-day management to the company’s teams. She is also responsible for leading, guiding and executing on the company’s vision and ensuring alignment with Barlow’s goals. With more than 20 years of market research experience, Youa aims to foster a growth-oriented and positive environment to continue Barlow’s gold standard in business banking research. Youa holds a B.A. from the University of Minnesota-Duluth and attended the University of Wisconsin, Stout. In her spare time, she enjoys spending time with her family and friends and traveling the world."
-        }
-      ]
-    },
-    {
-      "id": "106",
-      "title": "Keynote: ",
-      "secondTitle": "Breaking Down Silos: Adapting to the Future of Banking",
-      "day": "tues",
-      "time": "12:15pm",
-      "description": "In an era marked by advanced technologies, heightened competition, and shifting workplace dynamics, the future of banking requires a new approach. Join Pradip Patiath, Senior Partner with McKinsey & Co, as he explores the critical challenges facing large financial institutions over the next decade. Discover how breaking out of functional silos and adopting a holistic understanding of your role can help your bank thrive in a rapidly evolving social and economic landscape.",
-      "assets": "",
-      "speakers": [
-        {
-          "fName": "Pradip",
-          "lName": "Patiath",
-          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Pradip-Patiath.png",
-          "company": "McKinsey & Company",
-          "title": "Senior Partner",
-          "bio": "Pradip Patiath is a Senior Partner at McKinsey & Company and senior global leader in McKinsey’s Financial Services and Digital practices. Over the years, he has led several of McKinsey’s global practices, including Consumer/Business Banking, Digital Insurance, and Midwest Financial Services. He has also been the Managing Partner of the Digital McKinsey office in the Midwest and Canada.<br/><br/>Over the past two decades, Mr. Patiath has served clients in the banking, wealth management, insurance, private equity, asset management, payments and FinTech sectors on issues of strategy, growth, organization, turnarounds, M&A, distribution, operations and digital transformation, and has personally led a number of business builds and major performance transformations. His experience has spanned North America and several international markets across the U.K., Europe, South America and Asia. He has authored several leading publications, most recently on the topic of disruption and rapid digitization within financial services. He is a frequent public speaker and commentator at major global financial services and technology industry conferences.<br/><br/>Mr. Patiath’s prior experience has included building an enterprise software company in the digital insurance sector as President and COO of CCC Information Services. Previously, he also worked for Honeywell, Inc. in Minneapolis, MN, and for Schlumberger in Paris, France. He was awarded a US patent in the field of real-time digital transaction systems. Mr. Patiath is very active in Chicago’s civic community. He recently served as the Chair of the Board of the Adler Planetarium of Chicago, and serves on several other Boards, including Northwestern University’s Kellogg School Global Advisory Board and the Chicago Humanities Festival. He is also a member of the Economic Club of Chicago and is actively involved with and supports several civic institutions, including Marwen, American India Foundation, the Field Museum and the Art Institute of Chicago.<br/><br/>Mr. Patiath holds an MBA degree with distinction from Northwestern University’s Kellogg School of Management. He also holds an MS degree in computer science and received his BS degree in mechanical engineering from Indian Institute of Technology, New Delhi."
-        }
-      ]
-    },
-    {
-      "id": "107",
-      "title": "Catapulting Into 2025: ",
-      "secondTitle": "What’s in Store for Small and Mid-Sized Businesses?",
-      "time": "1:05 pm",
-      "day": "tues",
-      "description": "Barlow Research continuously collects data from small businesses and middle market companies about the state of their financial conditions and their outlook on the future. We are pleased to be able to present our latest findings on how businesses are reacting to a new administration, new policy changes and new challenges. We are also excited to be joined by Karen Kerrigan, President & CEO of the Small Business & Entrepreneurship Council (SBE), who will provide her unique perspective on the state of the current business environment. ",
-      "assets": "",
-      "speakers": [
-        {
-          "fName": "Joel",
-          "lName": "Mueller",
-          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/JoelMueller.png",
-          "company": "Barlow Research",
-          "title": "Managing Partner and Research Director",
-          "bio": "Joel is a Managing Partner and the Research Director at Barlow Research. He heads up Barlow Research's proprietary & custom research division and serves as the manager of the analyst team. He is responsible for the strategy, administration, analysis and reporting of various proprietary & custom studies. Joel specializes in both small business and middle market research and has led large-scale research initiatives in small business lending, small office/home office businesses and vertical/industry value proposition analyses. Joel graduated from University of Wisconsin-Stout, where he earned both a bachelor's degree in psychology and a master's degree in applied psychology with concentrations in evaluation research, industrial-organizational psychology and health promotion & disease prevention. In his free time, Joel enjoys woodworking, camping and spending time with his family and friends."
-        },
-        {
-          "fName": "Karen",
-          "lName": "Kerrigan",
-          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Karen-Kerrigan.png",
-          "company": "Small Business & Entrepreneurship Council",
-          "title": "President & CEO",
-          "bio": "For nearly thirty years Karen Kerrigan’s leadership, advocacy and training work has helped foster U.S. entrepreneurship and global business growth.  She is  president & CEO of the <a style='color: blue;' href='https://sbecouncil.org/'> Small Business & Entrepreneurship Council</a>, and is the group’s chief advocate for its members. In January 2024, Kerrigan received certification as a Health and Wellness Coach. Kerrigan regularly testifies before the U.S. Congress on a wide range of issues impacting entrepreneurs, startups, investment and the economy. She has been appointed to numerous federal advisory boards including the <a style='color: blue;' href='https://www.nwbc.gov/'>National Women’s Business Council</a> , the U.S.-Iraq Business Dialog, the U.S. Treasury’s Taxpayer Advisory Panel, and the National Advisory Committee for Labor Provisions of U.S. Free Trade Agreements. Kerrigan regularly engages with the President’s cabinet and key advisors, and has spoken or led roundtables at White House economic summits, scores of events hosted by the Small Business Administration, U.S. Treasury Department, Securities and Exchange Commission and other federal government agencies and departments. She is a collaborative and well-respected individual within the business and think-tank community who has led numerous coalitions and initiatives with diverse partners and organizations. She has also served on NAWBO’s Advisory Council, Verizon’s Consumer Advisory Board, and the Domenici-Rivlin Debt Reduction Task Force, among other advisory roles over the course of her career. She also serves on the board (and chairs the Health, Wellness and Fitness Committee) of the Vienna Business Association, and the Bayh-Dole Coalition. She has written hundreds of Op-Eds and newspaper columns, and regularly appears on national television and talk radio programs. Kerrigan regularly appears on Fox Business to provide analysis and commentary on the latest economic data, what’s driving the markets, and the outlook for the economy, entrepreneurship and small business growth.<br/><br/><a style='color: blue;' href='https://sbecouncil.org/2018/11/30/karen-kerrigan-leadership-for-smallbiz/'> Accolades for Karen’s work</a>.<br/> She has been called America’s “entrepreneurial envoy” and “small business ambassador” for her extensive speaking, knowledge sharing and capacity-building work overseas. Kerrigan is a founding member of the World Entrepreneurship Forum and has provided counsel to governments and business associations across the globe regarding entrepreneurial development, capacity building, policy formation and implementation. She has traveled to Belarus, Kazakhstan, Tunisia, Israel, Morocco, Nepal, the Palestinian territories, among many other nations on behalf of the U.S. State Department to work with business leaders, women and youth entrepreneurs, and government officials on advancing reforms and programs to encourage entrepreneurship, investment, and business growth.  Kerrigan is a board member/audit committee Chair and former board Chair of the <a style='color: blue;' href='https://www.cipe.org/'> Center for International Private Enterprise (CIPE)</a>, one of the core institutes of the National Endowment for Democracy, which works to strengthen democracy around the globe through private enterprise and market-oriented reforms. She is a <a style='color: blue;' href='https://worldin2050.diplomaticourier.com/brain-trust/'> World in 2050 Brain Trust</a> member of the Diplomatic Courier. “The hardest working woman in show business,” <br/><br/>The Hill BizTech Magazine named Kerrigan to its <a style='color: blue;' href='https://biztechmagazine.com/article/2020/11/30-small-business-it-influencers-follow-2020'> Small Business Influencer IT List</a> in November 2020. In July 2018, Kerrigan was named to Fit Small Business’s “Top Small Business Influencers of 2018.”  She was presented with the “Crowdfundie Award” at the 2017 Global Crowdfunding Convention for her leadership and advocacy on crowdfunding issues. In November of 2017, the Global IP Center of the U.S. Chamber <a style='color: blue;' href='https://sbecouncil.org/2017/11/15/u-s-chambers-global-ip-center-honors-ip-leaders-sbe-councils-kerrigan-receives-excellence-in-advocacy-award/'>Kerrigan with its “Excellence in Advocacy” award</a> for her work on strengthening IP protections, and for her advocacy and outreach regarding the importance of IP for investment, innovation and entrepreneurship.  In 2014, 2013, 2012 and 2011 she was named a Top 100 Champion Small Business Influencer by Small Business Trends.  CEO World Magazine named Kerrigan a <a style='color: blue;' href='https://sbecouncil.org/2013/11/08/ceo-world-names-sbe-councils-kerrigan-a-top-power-women-in-u-s-crowdfunding/'>'Top Power Woman in Crowdfunding”</a> (November 2013),  and in May 2016 she was presented with the New Capital Markets Leadership Award by the Crowdfund Intermediary Regulatory Advocates (CFIRA) and Crowdfund Capital Advisors for her steadfast leadership and work in making equity and debt-based crowdfunding legal. InNovember of 2009 Kerrigan was awarded the “Small Business Advocate of the Year” by the NY Enterprise Report.  Among media accolades, Inc. Magazine named Kerrigan to its small business “Best Friends in D.C.” (2006) list as a <a style='color: blue;' href='https://www.inc.com/magazine/20060201/dc-brokers.html'> “power broker and activist”</a> with “serious clout” for entrepreneurs; Fortune Small Business to its “Power 30” list (2000); and The Hill newspaper to its “most influential small business” list (2006) describing Kerrigan as “the hardest working woman in show business.”  In 1995, National Journal named Kerrigan to its short list of “K Street” activists most likely to have an impact on Capitol Hill. Campaigns and Elections Magazine named her as one of its “Rising Stars in Politics” in its April 1996 issue.  She lectures frequently at colleges and universities, making appearances at Harvard Business School, Georgetown University, University of Maryland, Ohio State University and many others including institutions outside of the United States. Kerrigan graduated from SUNY Cortland with a B.A. in Political Science, and she currently serves on the Cortland College Foundation Board. She resides with her family in Northern Virginia.<br/><br/>Twitter: @KarenKerrigan<br/>Linked In: /karenkerrigan"
-        }
-      ]
-    },
-    {
       "id": "108",
-      "title": "Middle Market Banking Panel: ",
-      "secondTitle": "Driving Growth in the Innovation Economy: Delivering the Whole Bank Experience from Startup to Corporate Banking",
+      "title": "Driving Growth in the Innovation Economy: ",
+      "secondTitle": "Delivering the Whole Bank Experience from Startup to Corporate Banking",
       "day": "tues",
       "time": "1:35 pm",
-      "description": "",
+      "description": "The innovation economy is fueled by the relentless pursuit of groundbreaking ideas and disruptive technologies. From early-stage startups to established corporations, businesses require financial services that evolve with their growth journey. Financial institutions must deliver a 'Whole Bank Experience' that integrates specialized financial solutions, advisory services, and digital innovations tailored to the unique needs of innovative enterprises. In this session, you will learn how banks can drive sustainable growth and foster long-term partnerships with businesses at every stage of their journey. ",
       "assets": "",
       "speakers": [
         {
@@ -195,7 +196,7 @@
       "title": "Wintrust Data Hub: ",
       "secondTitle": "Enhancing Commercial Reporting & Connectivity",
       "day": "tues",
-      "time": "2:10pm",
+      "time": "2:10 pm",
       "description": "As owners and shareholders command higher returns, business leaders and their finance and operations teams are increasingly becoming more and more data driven.  Management teams aspire to create efficiencies and integration with their accounting and ERP systems and desire better insights from their bank to enhance decision making.  Discover how Wintrust is solving this gap for its business customers through the evolution of its Data Hub.",
       "assets": "",
       "speakers": [
@@ -231,10 +232,10 @@
     {
       "id": "111",
       "title": "Digital Business Banking Panel: ",
-      "secondTitle": "The Role of Digital Banking in Defending Businesses Against Security Risks and Fraud",
+      "secondTitle": "Digital Banking Evolution: What's on the Horizon",
       "day": "tues",
       "time": "3:05 pm",
-      "description": "",
+      "description": "This session will focus on how digital banking has come of age, and what to expect in the next 2-3 years. Customer adoption remains high, demand for seamless multi-channel experiences continues to grow, and banks are continuing to invest in digital channels. For the next 2-3 years, the focus for financial institutions will be on continuing  to roll out new functionality that enables small businesses and middle market firms to get more done digitally, resulting in greater efficiencies. ",
       "assets": "",
       "speakers": [
         {
@@ -279,7 +280,7 @@
           "fName": "Doug",
           "lName": "Ferren",
           "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Doug-Ferren.png",
-          "company": "The Ohio State University Fisher College of Business",
+          "company": "The National Center for Middle Market",
           "title": "Managing Director of the National Center for the Middle Market",
           "bio": "Doug Farren is the Managing Director of the National Center for the Middle Market at The Ohio State University Fisher College of Business. In his role, he leads the day-to-day operations of the Center, which include research, corporate outreach, and student activities in addition to long-range strategic planning and sponsor stewardship. Prior to launching the NCMM in 2011, he spent 10 years with LBrands, where he worked in various roles including Supply Chain Planning, Distribution Center Operations, and Financial Planning and Analysis supporting brands such as Victoria’s Secret and Bath and Body Works . Farren started with LBrands as a summer intern while completing his MBA in Operations and Logistics Management at Fisher.<br><br>Farren’s previous experience includes business management for Six Sigma Qualtec, a process improvement consulting firm based on Scottsdale, Arizona. His primary functions included marketing strategy and on-site training and implementation. As part of his responsibilities, he was certified in 1998 as a Six Sigma Black Belt in Transactional Quality. Farren attended Penn State University, where he earned a Bachelor of Science with a focus on business management and was a member of the football program as an athlete and student assistant coach."
         },
@@ -331,7 +332,7 @@
       "id": "116",
       "title": "Greeting",
       "day": "wed",
-      "time": "8:00am",
+      "time": "8:00 am",
       "description": "",
       "assets": "",
       "speakers": [
@@ -365,10 +366,11 @@
     },
     {
       "id": "118",
-      "title": "Small Business Banking Panel",
+      "title": "Fueling Small Business Success: ",
+      "secondTitle": "Bank Resources that Drive Growth and Resilience",
       "day": "wed",
-      "time": "9:05am",
-      "description": "",
+      "time": "9:05 am",
+      "description": "Small businesses are the backbone of local economies, but they continue to face complex challenges. This panel explores how financial institutions are stepping up with innovative solutions, including advances in digital tools, lending stategies, and unique partnerships, to meet the evolving needs of small business owners. Join us to learn how banks are combining technology with human touch to foster growth and resilience in their small business clients.",
       "assets": "",
       "speakers": [
         {
@@ -386,7 +388,7 @@
       "title": "Digital + Human: ",
       "secondTitle": "Earning Full Share of Wallet at Acquisition and Channel Optimization",
       "day": "wed",
-      "time": "9:45am",
+      "time": "9:45 am",
       "description": "This presentation will cover three key areas. First, we'll explore the dynamics of buying behaviors across different customer segments, focusing on how to effectively leverage both physical and digital sales channels.  Second, we'll discuss streamlining our business product offerings to better meet the payment, receivable, and lending needs of our clients. Finally, we'll delve into redefining digital engagement strategies specifically for small and medium-sized businesses.",
       "assets": "",
       "speakers": [
@@ -401,10 +403,10 @@
       ]
     },
     {
-      "id": "120",
+      "id": "114",
       "title": "Break",
       "day": "wed",
-      "time": "10:15am",
+      "time": "10:15 am",
       "description": "",
       "assets": "",
       "speakers": [
@@ -418,27 +420,29 @@
       ]
     },
     {
-      "id": "121",
-      "title": "Session",
+      "id": "120",
+      "title": "The AI-Powered Banker: ",
+      "secondTitle": "Driving Growth with a Human Touch ",
       "day": "wed",
       "time": "10:30am",
-      "description": "",
+      "description": "In their push for digital transformation, many banks have deprioritized the personal service that once set them apart. But it doesn’t have to be a tradeoff.</br></br> This session explores how AI-powered tools can guide business bankers behind the scenes—helping them manage a broader client base, stay proactive, and focus on the right opportunities. AI helps bankers scale personalized service without losing the human connection—by identifying customer needs and prompting timely, relevant conversations that lead to deeper, more profitable relationships.</br>Walk away with real-world examples and practical ideas you can apply immediately.",
       "assets": "",
       "speakers": [
         {
-          "fName": "",
-          "lName": "",
-          "photo": null,
-          "title": "",
-          "bio": ""
+          "fName": "David",
+          "lName": "Sosna",
+          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/David-Sosna.png",
+          "company": "Sympera AI",
+          "title": "Founder and CEO",
+          "bio": "David Sosna is a serial entrepreneur with over 20 years of experience building innovative fintech startups. He founded and grew both Actimize, which set the standard in financial risk and compliance, and Personetics, a global leader in self-driving finance. His latest venture, Sympera AI, uses AI to help bankers prioritize clients, deepen relationships, and drive growth. With a strong background in engineering, data science, and digital banking, David is passionate about product innovation and creating solutions that put people first."
         }
       ]
     },
     {
-      "id": "122",
-      "title": "Fireside chat",
+      "id": "101",
+      "title": "Fireside chat: CX Journey",
       "day": "wed",
-      "time": "11:20am",
+      "time": "11:20 am",
       "description": "",
       "assets": "",
       "speakers": [
@@ -446,6 +450,7 @@
           "fName": "",
           "lName": "",
           "photo": null,
+          "company": "",
           "title": "",
           "bio": ""
         }
@@ -456,7 +461,7 @@
       "title": "Building Scale Together: ",
       "secondTitle": "Removing Friction Between Banks and High-Growth Companies",
       "day": "wed",
-      "time": "11:50am",
+      "time": "11:50 am",
       "description": "Discover firsthand insights from Boomer Muth on scaling a business from inception to over half a billion dollars in revenue, focusing on the critical role banking and financial partnerships play in growth trajectories. Learn about the friction points encountered, missed opportunities, and how embracing a high-leverage mindset—paired with the right people and technologies—can unlock exponential growth. This session synthesizes key learnings from the conference into actionable strategies for banking leaders seeking to enhance their impact and drive customer success.",
       "assets": "",
       "speakers": [
@@ -472,9 +477,9 @@
     },
     {
       "id": "123",
-      "title": "Concluding Remarks + Lunch",
+      "title": "Concluding Remarks + Take Away Lunch",
       "day": "wed",
-      "time": "12:30pm",
+      "time": "12:30 pm",
       "description": "",
       "assets": "",
       "speakers": [
@@ -491,7 +496,7 @@
       "id": "126",
       "title": "Business Banking Blueprint Roundtable - Invite Only",
       "day": "wed",
-      "time": "1:00pm",
+      "time": "1:00 pm",
       "description": "",
       "assets": "",
       "speakers": [
