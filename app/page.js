@@ -103,6 +103,7 @@ export default function Home() {
           )}
         </AnimatePresence>
       </div>
+      <div style={{ height: "100px" }}></div>
     </div>
   );
 }
