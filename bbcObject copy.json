@@ -472,28 +472,19 @@
     },
     {
       "id": "101",
-      "title": "The Future of CX:",
-      "secondTitle": "Balancing Tech, Trust & Transformation",
+      "title": "Fireside chat: CX Journey",
       "day": "wed",
       "time": "11:20 am",
-      "description": "What does it take to build — and keep — a best-in-class customer experience in today’s dynamic banking environment? In this conversation with Ash Kulkarni, Managing Director, Digital Business Banking – Sales and Servicing from BMO, we’ll explore how customer experience (CX) strategy has evolved over the last five years, how small business products are developed through a customer-first lens, and how teams balance innovation with security and compliance. Expect a candid discussion on how data, primary research and cross-functional collaboration shape the final customer journey. We’ll also touch on what’s next — including the role of AI in reimagining CX for the future.",
+      "description": "",
       "assets": "",
       "speakers": [
         {
-          "fName": "Youa",
-          "lName": "Yang",
-          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/YouaYang.png",
-          "company": "Barlow Research",
-          "title": "Managing Partner and COO",
-          "bio": "Youa is a Managing Partner and Chief Operating Officer at Barlow Research. She provides leadership and general day-to-day management to the company’s teams. She is also responsible for leading, guiding and executing on the company’s vision and ensuring alignment with Barlow’s goals. With more than 20 years of market research experience, Youa aims to foster a growth-oriented and positive environment to continue Barlow’s gold standard in business banking research. Youa holds a B.A. from the University of Minnesota-Duluth and attended the University of Wisconsin, Stout. In her spare time, she enjoys spending time with her family and friends and traveling the world."
-        },
-        {
-          "fName": "Ash",
-          "lName": "Kulkarni",
-          "photo": "https://mybarlow.barlowresearch.com/BusinessBankingConference_2025/images/presenters/Ash-Kulkarni.png",
-          "company": "BMO",
-          "title": "Managing Director, Digital Business Banking – Sales and Servicing",
-          "bio": "Ash Kulkarni is a Digital leader with a track record of delivering award-winning banking experiences. He leads Digital Business Banking group at BMO, delivering digital onboarding journeys that provide clients with a fast, secure, and delightful experience. Recent highlights include building out Business deposits and lending sales capabilities to integrate BMO’s acquisition of Bank of the West and delivering an award-winning online Deposit Account open experience. Prior to his stint on Business Banking, Ash drove the bank’s Canadian Retail Deposits & Cards digital sales experiences to market-leader status by tripling deposit sales volumes within 5 years and earning BMO digital leadership recognition on the Forrester Canadian Digital Banking review. His teams succeed by placing the client at the heart of all experience decisions and embracing BMO’s mission to help clients make Real Financial Progress. In his spare time, Ash can be found reading a good thriller, entertaining the two family labradoodles, or (with limited success) trying to convert his 2-year old daughter into a Manchester United fan."
+          "fName": "",
+          "lName": "",
+          "photo": null,
+          "company": "",
+          "title": "",
+          "bio": ""
         }
       ]
     },
